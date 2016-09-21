@@ -1,3 +1,6 @@
+![](https://facebook.github.io/react/img/logo.svg)
+
+
 # Jacob Resume
 
 ## Experience
@@ -20,7 +23,7 @@ primary tools: javascript, css, html, #C and Servicestack. Further, I was respon
 
 ### CEO
 ##### SMUSMY August 2015 - present
-Created danish fashion brand SMUSMY, that seeks to make quality and style available to everyone.
+Created danish fashion brand SMUSMY, that seeks to make quality Scandinavian style available to everyone.
 Responsible for the web shop, retail location, employee management and business development.
 
 ### Personal trainer and lead physiologist
@@ -30,12 +33,24 @@ Helped athletes realize their goals, through personal coaching, training plans a
 
 ### Web developer / Business development
 ##### Knabetti / Aupado
-Was selected to go to Münich as part of a start-up program.
+Selected to work in an incubator in Münich, where I assisted start-ups with web development and introduced them to lean methodologies.
 
 
-## My favorite tools
+
+## My favorite tools and languages
 * Javascript ES6
-* React
-* Redux
+* React | React Native
+* Redux | MobX
 * Node
+* MongoDb
 * Express
+* Mocha
+* Chai
+* Enzyme
+* Webpack
+* HTML
+* CSS | SCSS | Stylus
+
+* Gulp
+* Ruby on Rails
+* Sketch
