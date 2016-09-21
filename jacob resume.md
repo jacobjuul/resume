@@ -5,34 +5,32 @@
 ### Fullstack developer / Business development
 #### Abtion January 2016 - Present
 Lead developer and responsible for business development on a number of projects.
-- **actitor.com / Lead developer and responsible for concept development.**  
-  A platform to find and participate in sports activities.  
-  Tech stack:
-  * Meteor
+Notable clients Maersk & Copenhagen airport
+  Technologies used:
+  * javascript es6
   * React
-  * Flux
-  * FRP
-  * SCSS
-  * Webpack
+  * Redux / alt.js / MobX
+  * Gulp
+  * Sass/stylus/css
+  * Meteor.js
   * Node
-  * MongoDb
-  * Enzyme
-  * Mocha / Chai
--  **kappture / Frontend**  
-  Remember products, places or things with pictures  
-    Tech stack:  
-    * Backbone
-    * Cordova
-    * stylus
-    * gulp
-- **Copenhagen Airport / Lead developer**  
-  Made a game for a marketing campaign  
-    Tech stack:  
-    * javascript es6
-    * gulp
-    * phaser.js
-    * scss
-    * googleapi
+  * Express
+
+
+  - **actitor.com / Lead developer and responsible for concept development.**  
+    A platform to find and participate in sports activities.  
+    Tech stack:
+    * Meteor
+    * React
+    * Flux
+    * FRP
+    * SCSS
+    * Webpack
+    * Node
+    * MongoDb
+    * Enzyme
+    * Mocha / Chai
+
 
 ### Web developer / Concept development
 #### Workbook software April 2015 - December 2016
