@@ -5,7 +5,7 @@
 ### Fullstack developer / Business development
 #### Abtion January 2016 - Present
 Lead developer and responsible for business development on a number of projects.
-- ##### actitor.com / Lead developer and responsible for concept development.  
+- **actitor.com / Lead developer and responsible for concept development.**  
   A platform to find and participate in sports activities.  
   Tech stack:
   * Meteor
@@ -18,14 +18,14 @@ Lead developer and responsible for business development on a number of projects.
   * MongoDb
   * Enzyme
   * Mocha / Chai
-- ##### kappture / Frontend  
+-  **kappture / Frontend**  
   Remember products, places or things with pictures  
     Tech stack:  
     * Backbone
     * Cordova
     * stylus
     * gulp
-- ##### Copenhagen Airport / Lead developer  
+- **Copenhagen Airport / Lead developer**  
   Made a game for a marketing campaign  
     Tech stack:  
     * javascript es6
