@@ -57,14 +57,19 @@ Raced in the best class in Europe and Denmark. Shared my experience with younger
 * HTML
 * CSS | SCSS | Stylus
 
-
+---
 * Gulp
+* Canvas
+* Phaser
+* Pixie
+* Go
 * Docker
 * Ruby
 * Ruby on Rails
 * Sketch
 * Swift
 
+#### ***Willing to learn anything***
 
 ## Achievements and Certificates
 #### 2014 Master of Science
